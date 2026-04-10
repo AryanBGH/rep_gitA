@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is a change for Q8
-=======
-This is a new addon from assgn 81
->>>>>>> 4db2756d4fd3e6c0d4e481588bd099ec35bf20ef
-=======
-This is a new addon from assgn 
->>>>>>> bd43d6efb0e5537b8ab2ed239f7907d00c44fb12
+This is the change by Assign8
