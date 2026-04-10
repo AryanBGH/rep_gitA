@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is the change by Assign8
+=======
+Sample text
+>>>>>>> 5db4118655942cc2b02d2b8e1ffc40a6aeefccf0
