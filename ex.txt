@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is modification by Br4
-=======
-This is a new addon by Br3
->>>>>>> Br3
+This is a change made for Assign 8
